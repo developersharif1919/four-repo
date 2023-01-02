@@ -1,0 +1,21 @@
+*{
+    text-align: center;
+}
+h2{
+    color:#fff;
+    background:black;
+    border:2px solid red;
+    margin-bottom:10px;
+}
+h3{
+    color:blue;
+    background:yellow;
+    border:2px solid black;
+    margin-bottom: 10px;
+}
+p{
+    color:red;
+    background-color: orchid;
+    border:2px solid orange;
+
+}
